@@ -2489,7 +2489,8 @@ window.onload = () => {
 const azureDevOps = {
     async sync() {
         const pat = sessionStorage.getItem('az_pat');
-        const settings = JSON.parse(localStorage.getItem('az_settings')) || {
+        // استخدام القيم الثابتة من الكود بدلاً من localStorage
+        const settings = {
             org: "NTDotNet",
             project: "LDM",
             queryId: "8cfc699b-0617-4f90-bd55-ebb1b4949190"
