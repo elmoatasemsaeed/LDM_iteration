@@ -2,7 +2,7 @@
  * Configuration & Global State 
  */
 const CONFIG = {
-    REPO_NAME: "elmoatasemsaeed/Current_iteration",
+    REPO_NAME: "elmoatasemsaeed/LDM_iteration",
     FILE_PATH: "db.json",
     ARCHIVE_PATH: "delivery_archive.json",
     WORKING_HOURS: 5,
@@ -2492,7 +2492,7 @@ const azureDevOps = {
         const settings = JSON.parse(localStorage.getItem('az_settings')) || {
             org: "NTDotNet",
             project: "LDM",
-            queryId: "8a732680-07a6-4dff-bdbd-7800644f61b9"
+            queryId: "8cfc699b-0617-4f90-bd55-ebb1b4949190"
         };
 
         if (!pat) return alert("Azure PAT is missing. Please login again.");
