@@ -1614,7 +1614,7 @@
       "expectedRelease": null,
       "branch": "Egypt",
       "customer": "Alameda_0062",
-      "changedDate": "2026-07-19T08:03:46.000Z",
+      "changedDate": "2026-07-19T08:16:15.007Z",
       "tasks": [
         {
           "ID": 180102,
@@ -1652,7 +1652,104 @@
         }
       ],
       "bugs": [],
-      "testCases": [],
+      "testCases": [
+        {
+          "id": 180302,
+          "state": "Design"
+        },
+        {
+          "id": 180303,
+          "state": "Design"
+        },
+        {
+          "id": 180304,
+          "state": "Design"
+        },
+        {
+          "id": 180305,
+          "state": "Design"
+        },
+        {
+          "id": 180306,
+          "state": "Design"
+        },
+        {
+          "id": 180307,
+          "state": "Design"
+        },
+        {
+          "id": 180308,
+          "state": "Design"
+        },
+        {
+          "id": 180309,
+          "state": "Design"
+        },
+        {
+          "id": 180310,
+          "state": "Design"
+        },
+        {
+          "id": 180311,
+          "state": "Design"
+        },
+        {
+          "id": 180312,
+          "state": "Design"
+        },
+        {
+          "id": 180313,
+          "state": "Design"
+        },
+        {
+          "id": 180314,
+          "state": "Design"
+        },
+        {
+          "id": 180315,
+          "state": "Design"
+        },
+        {
+          "id": 180316,
+          "state": "Design"
+        },
+        {
+          "id": 180317,
+          "state": "Design"
+        },
+        {
+          "id": 180318,
+          "state": "Design"
+        },
+        {
+          "id": 180319,
+          "state": "Design"
+        },
+        {
+          "id": 180320,
+          "state": "Design"
+        },
+        {
+          "id": 180321,
+          "state": "Design"
+        },
+        {
+          "id": 180322,
+          "state": "Design"
+        },
+        {
+          "id": 180323,
+          "state": "Design"
+        },
+        {
+          "id": 180324,
+          "state": "Design"
+        },
+        {
+          "id": 180325,
+          "state": "Design"
+        }
+      ],
       "reviews": [],
       "calc": {
         "devEnd": "2026-07-16T11:25:25.933Z",
@@ -3515,9 +3612,9 @@
           "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-15T16:02:48.96Z",
-          "State": "To Be Reviewed",
+          "State": "Closed",
           "Tags": "liquibase; V4.0.0; Wait .Net review",
-          "Changed Date": "2026-07-19T07:39:41.68Z",
+          "Changed Date": "2026-07-19T08:21:04.037Z",
           "Customer": "Al Shamel Lab_624"
         },
         {
@@ -3708,7 +3805,7 @@
       ],
       "reviews": [],
       "calc": {
-        "devEnd": "2026-07-19T11:00:00.000Z",
+        "devEnd": "2026-07-19T13:00:00.000Z",
         "testEnd": "2026-07-20T13:00:00.000Z",
         "finalEnd": "2026-07-20T13:00:00.000Z"
       },
@@ -4594,7 +4691,7 @@
       ],
       "reviews": [],
       "calc": {
-        "devEnd": "2026-07-20T11:00:00.000Z",
+        "devEnd": "2026-07-20T13:00:00.000Z",
         "testEnd": "2026-07-21T12:00:00.000Z",
         "finalEnd": "2026-07-21T12:00:00.000Z"
       },
@@ -8079,10 +8176,11 @@
           "Original Estimation": 11.5,
           "TimeSheet_DevActualTime": 0,
           "TimeSheet_TestingActualTime": 0,
+          "Activated Date": "2026-07-19T08:19:03.25Z",
           "Iteration Path": "LDM\\Front Team\\2026\\Front-July 16-30",
           "Assigned To Tester": "Unassigned",
-          "State": "New",
-          "Changed Date": "2026-07-16T14:57:07.303Z",
+          "State": "Active",
+          "Changed Date": "2026-07-19T08:19:03.25Z",
           "Customer": "Internal CR_2000"
         }
       ],
@@ -8927,7 +9025,7 @@
         },
         {
           "id": 180298,
-          "state": "Design"
+          "state": "Inprogress"
         }
       ],
       "reviews": [],
