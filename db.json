@@ -421,6 +421,264 @@
       "testActualTime": 0.67
     },
     {
+      "id": 173329,
+      "title": "Metra Labs - Enhance the Receipt List Report by adding a new option to export the report as an Excel sheet with separate structured columns.",
+      "type": "User Story",
+      "state": "Active",
+      "assignedTo": "Hesham Elsayed",
+      "tester": "Bassem Ayman",
+      "area": "Front and Financial",
+      "priority": 1,
+      "tags": [],
+      "expectedRelease": null,
+      "branch": "Egypt",
+      "customer": "Metra Labs_468",
+      "changedDate": "2026-07-19T11:57:02.130Z",
+      "tasks": [
+        {
+          "ID": 180350,
+          "Work Item Type": "Task",
+          "Title": "Preparation Task For CR 173329",
+          "Assigned To": "Bassem Ayman",
+          "Activity": "Testing",
+          "Original Estimation": 2,
+          "TimeSheet_DevActualTime": 0,
+          "TimeSheet_TestingActualTime": 0,
+          "Activated Date": "2026-07-19T09:20:44.933Z",
+          "Iteration Path": "LDM\\Candidate CRs",
+          "Assigned To Tester": "Unassigned",
+          "State": "Active",
+          "Changed Date": "2026-07-19T09:20:44.933Z",
+          "Customer": "Metra Labs_468"
+        },
+        {
+          "ID": 180351,
+          "Work Item Type": "Task",
+          "Title": "Execution Task For CR 173329",
+          "Assigned To": "Bassem Ayman",
+          "Activity": "Testing",
+          "Original Estimation": 5.2,
+          "TimeSheet_DevActualTime": 0,
+          "TimeSheet_TestingActualTime": 0,
+          "Iteration Path": "LDM\\Candidate CRs",
+          "Assigned To Tester": "Unassigned",
+          "State": "New",
+          "Changed Date": "2026-07-19T08:41:57.637Z",
+          "Customer": "Metra Labs_468"
+        },
+        {
+          "ID": 180464,
+          "Work Item Type": "Task",
+          "Title": "DB Modifications : insert new record to Object table at LDM_DEV",
+          "Assigned To": "Mostafa Mahmoud",
+          "Activity": "DB Modification",
+          "Original Estimation": 1,
+          "TimeSheet_DevActualTime": 0,
+          "TimeSheet_TestingActualTime": 0,
+          "Activated Date": "2026-07-19T11:32:01.17Z",
+          "Iteration Path": "LDM\\Front Team\\2026\\Front-July 16-30",
+          "Assigned To Tester": "Unassigned",
+          "State": "Active",
+          "Changed Date": "2026-07-19T11:32:08.39Z",
+          "Customer": "Metra Labs_468"
+        }
+      ],
+      "bugs": [],
+      "testCases": [
+        {
+          "id": 180327,
+          "state": "Design"
+        },
+        {
+          "id": 180328,
+          "state": "Design"
+        },
+        {
+          "id": 180329,
+          "state": "Design"
+        },
+        {
+          "id": 180330,
+          "state": "Design"
+        },
+        {
+          "id": 180331,
+          "state": "Design"
+        },
+        {
+          "id": 180332,
+          "state": "Design"
+        },
+        {
+          "id": 180333,
+          "state": "Design"
+        },
+        {
+          "id": 180334,
+          "state": "Design"
+        },
+        {
+          "id": 180335,
+          "state": "Design"
+        },
+        {
+          "id": 180336,
+          "state": "Design"
+        },
+        {
+          "id": 180337,
+          "state": "Design"
+        },
+        {
+          "id": 180338,
+          "state": "Design"
+        },
+        {
+          "id": 180339,
+          "state": "Design"
+        },
+        {
+          "id": 180340,
+          "state": "Design"
+        },
+        {
+          "id": 180341,
+          "state": "Design"
+        },
+        {
+          "id": 180342,
+          "state": "Design"
+        },
+        {
+          "id": 180343,
+          "state": "Design"
+        },
+        {
+          "id": 180344,
+          "state": "Design"
+        },
+        {
+          "id": 180345,
+          "state": "Design"
+        },
+        {
+          "id": 180346,
+          "state": "Design"
+        },
+        {
+          "id": 180347,
+          "state": "Design"
+        },
+        {
+          "id": 180348,
+          "state": "Design"
+        },
+        {
+          "id": 180353,
+          "state": "Design"
+        },
+        {
+          "id": 180354,
+          "state": "Design"
+        },
+        {
+          "id": 180355,
+          "state": "Design"
+        },
+        {
+          "id": 180356,
+          "state": "Design"
+        },
+        {
+          "id": 180357,
+          "state": "Design"
+        },
+        {
+          "id": 180358,
+          "state": "Design"
+        },
+        {
+          "id": 180359,
+          "state": "Design"
+        },
+        {
+          "id": 180360,
+          "state": "Design"
+        },
+        {
+          "id": 180361,
+          "state": "Design"
+        },
+        {
+          "id": 180362,
+          "state": "Design"
+        },
+        {
+          "id": 180363,
+          "state": "Design"
+        },
+        {
+          "id": 180364,
+          "state": "Design"
+        },
+        {
+          "id": 180365,
+          "state": "Design"
+        },
+        {
+          "id": 180366,
+          "state": "Design"
+        },
+        {
+          "id": 180367,
+          "state": "Design"
+        },
+        {
+          "id": 180368,
+          "state": "Design"
+        },
+        {
+          "id": 180369,
+          "state": "Design"
+        },
+        {
+          "id": 180370,
+          "state": "Design"
+        },
+        {
+          "id": 180371,
+          "state": "Design"
+        },
+        {
+          "id": 180372,
+          "state": "Design"
+        },
+        {
+          "id": 180373,
+          "state": "Design"
+        },
+        {
+          "id": 180374,
+          "state": "Design"
+        },
+        {
+          "id": 180375,
+          "state": "Design"
+        }
+      ],
+      "reviews": [],
+      "calc": {
+        "devEnd": "2026-07-19T13:32:01.170Z",
+        "testEnd": "2026-07-21T07:00:00.000Z",
+        "finalEnd": "2026-07-21T07:00:00.000Z"
+      },
+      "customTags": [],
+      "standupComments": [],
+      "iterationPath": "LDM\\Front Team\\2026\\Front-July 16-30",
+      "devActualTime": 0,
+      "testActualTime": 0
+    },
+    {
       "id": 176043,
       "title": "Alborg - Login - MFA: Apply the impact of Password Requirements and the configured Multi-Factor Authentication method during LDM login (MFA = Email). (CR 174878)",
       "type": "User Story",
@@ -1443,9 +1701,9 @@
       ],
       "reviews": [],
       "calc": {
-        "devEnd": "2026-07-13T07:00:00.000Z",
-        "testEnd": "2026-07-15T10:00:00.000Z",
-        "finalEnd": "2026-07-15T10:00:00.000Z"
+        "devEnd": "2026-07-21T13:00:00.000Z",
+        "testEnd": "2026-07-23T08:00:00.000Z",
+        "finalEnd": "2026-07-23T08:00:00.000Z"
       },
       "customTags": [],
       "standupComments": [],
@@ -1602,6 +1860,52 @@
       "testActualTime": 0
     },
     {
+      "id": 179229,
+      "title": "wareed Labs - Add two new columns with names \"Reg. Branch\" & \"Reg. Date\" to the Exported Excel sheet, in the ‘Zataca Search Result’ worksheet tab.",
+      "type": "User Story",
+      "state": "Active",
+      "assignedTo": "mohamed.abdelghany",
+      "tester": "Bassem Ayman",
+      "area": "Front and Financial",
+      "priority": 1,
+      "tags": [],
+      "expectedRelease": null,
+      "branch": "KSA",
+      "customer": "Wareed Lab_294",
+      "changedDate": "2026-07-19T11:57:28.703Z",
+      "tasks": [
+        {
+          "ID": 180468,
+          "Work Item Type": "Task",
+          "Title": "BD005: Enhance ZATCA Monitor Excel Export with Registration Details",
+          "Assigned To": "mohamed.abdelghany",
+          "Activity": "Development",
+          "Original Estimation": 4,
+          "TimeSheet_DevActualTime": 0,
+          "TimeSheet_TestingActualTime": 0,
+          "Activated Date": "2026-07-19T11:51:34.53Z",
+          "Iteration Path": "LDM\\Front Team\\2026\\Front-July 16-30",
+          "Assigned To Tester": "Unassigned",
+          "State": "Active",
+          "Changed Date": "2026-07-19T11:51:34.53Z",
+          "Customer": "Wareed Lab_294"
+        }
+      ],
+      "bugs": [],
+      "testCases": [],
+      "reviews": [],
+      "calc": {
+        "devEnd": "2026-07-20T10:00:00.000Z",
+        "testEnd": "Waiting for Data",
+        "finalEnd": null
+      },
+      "customTags": [],
+      "standupComments": [],
+      "iterationPath": "LDM\\Front Team\\2026\\Front-July 16-30",
+      "devActualTime": 0,
+      "testActualTime": 0
+    },
+    {
       "id": 179946,
       "title": "Alameda gp - update Result receipt to add QR code (static image)  when scan shall redirect to the Mobile app",
       "type": "User Story",
@@ -1614,7 +1918,7 @@
       "expectedRelease": null,
       "branch": "Egypt",
       "customer": "Alameda_0062",
-      "changedDate": "2026-07-19T08:16:15.007Z",
+      "changedDate": "2026-07-19T09:50:52.613Z",
       "tasks": [
         {
           "ID": 180102,
@@ -1623,14 +1927,14 @@
           "Assigned To": "Samir Mohamed",
           "Activity": "Development",
           "Original Estimation": 1,
-          "TimeSheet_DevActualTime": 0.5,
+          "TimeSheet_DevActualTime": 1,
           "TimeSheet_TestingActualTime": 0,
           "Activated Date": "2026-07-16T09:25:25.933Z",
           "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-16T09:39:34.61Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T14:28:57.24Z",
+          "Changed Date": "2026-07-19T09:50:52.613Z",
           "Customer": "Alameda_0062"
         },
         {
@@ -1654,100 +1958,52 @@
       "bugs": [],
       "testCases": [
         {
-          "id": 180302,
-          "state": "Design"
-        },
-        {
-          "id": 180303,
-          "state": "Design"
-        },
-        {
-          "id": 180304,
-          "state": "Design"
-        },
-        {
-          "id": 180305,
-          "state": "Design"
-        },
-        {
-          "id": 180306,
-          "state": "Design"
-        },
-        {
           "id": 180307,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180308,
-          "state": "Design"
-        },
-        {
-          "id": 180309,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180310,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180311,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180312,
-          "state": "Design"
-        },
-        {
-          "id": 180313,
-          "state": "Design"
-        },
-        {
-          "id": 180314,
-          "state": "Design"
-        },
-        {
-          "id": 180315,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180316,
-          "state": "Design"
-        },
-        {
-          "id": 180317,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180318,
-          "state": "Design"
-        },
-        {
-          "id": 180319,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180320,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180321,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180322,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180323,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 180324,
-          "state": "Design"
-        },
-        {
-          "id": 180325,
-          "state": "Design"
+          "state": "Inprogress"
         }
       ],
       "reviews": [],
@@ -3032,7 +3288,7 @@
       "expectedRelease": null,
       "branch": "KSA",
       "customer": "Al Borg KSA_530",
-      "changedDate": "2026-07-16T14:02:43.657Z",
+      "changedDate": "2026-07-19T09:45:27.133Z",
       "tasks": [
         {
           "ID": 178516,
@@ -3338,7 +3594,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-15T10:44:50.373Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T05:33:28.58Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         }
       ],
@@ -3497,7 +3753,7 @@
       "expectedRelease": null,
       "branch": "KSA",
       "customer": "Al Shamel Lab_624",
-      "changedDate": "2026-07-19T07:40:22.560Z",
+      "changedDate": "2026-07-19T11:58:04.397Z",
       "tasks": [
         {
           "ID": 179419,
@@ -3511,8 +3767,9 @@
           "Activated Date": "2026-07-12T17:10:42.013Z",
           "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
           "Assigned To Tester": "Unassigned",
-          "State": "Active",
-          "Changed Date": "2026-07-16T05:34:56.897Z",
+          "Resolved Date": "2026-07-19T11:59:16.153Z",
+          "State": "To Be Reviewed",
+          "Changed Date": "2026-07-19T11:59:16.153Z",
           "Customer": "Al Shamel Lab_624"
         },
         {
@@ -3523,12 +3780,13 @@
           "Activity": "Testing",
           "Original Estimation": 4,
           "TimeSheet_DevActualTime": 0,
-          "TimeSheet_TestingActualTime": 1.5,
+          "TimeSheet_TestingActualTime": 4,
           "Activated Date": "2026-07-16T10:34:44.93Z",
           "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
           "Assigned To Tester": "Unassigned",
-          "State": "Active",
-          "Changed Date": "2026-07-16T13:58:33.023Z",
+          "Resolved Date": "2026-07-19T12:03:51.233Z",
+          "State": "To Be Reviewed",
+          "Changed Date": "2026-07-19T12:03:51.233Z",
           "Customer": "Al Shamel Lab_624"
         },
         {
@@ -3659,155 +3917,155 @@
           "Activity": "",
           "Original Estimation": 1,
           "TimeSheet_DevActualTime": 1.32,
-          "TimeSheet_TestingActualTime": 0,
+          "TimeSheet_TestingActualTime": 0.25,
           "Activated Date": "2026-07-16T12:04:44.217Z",
           "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-16T12:24:05.277Z",
-          "State": "Resolved",
-          "Changed Date": "2026-07-19T07:11:04.997Z",
+          "State": "Closed",
+          "Changed Date": "2026-07-19T12:04:32.623Z",
           "Customer": "Al Shamel Lab_624"
         }
       ],
       "testCases": [
         {
           "id": 179385,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179386,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179387,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179388,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179389,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179390,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179391,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179392,
-          "state": "Design"
+          "state": "Not Applicable"
         },
         {
           "id": 179393,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179394,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179395,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179396,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179397,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179398,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179399,
-          "state": "Design"
+          "state": "Not Applicable"
         },
         {
           "id": 179400,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179401,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179402,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179403,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179404,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179405,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179406,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179407,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179408,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179409,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179410,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179411,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179412,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179413,
-          "state": "Design"
+          "state": "Not Applicable"
         },
         {
           "id": 179414,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179415,
-          "state": "Design"
+          "state": "Not Applicable"
         },
         {
           "id": 179416,
-          "state": "Design"
+          "state": "Pass"
         },
         {
           "id": 179417,
-          "state": "Design"
+          "state": "Pass"
         }
       ],
       "reviews": [],
       "calc": {
         "devEnd": "2026-07-19T13:00:00.000Z",
-        "testEnd": "2026-07-20T13:00:00.000Z",
-        "finalEnd": "2026-07-20T13:00:00.000Z"
+        "testEnd": "2026-07-20T06:00:00.000Z",
+        "finalEnd": "2026-07-20T06:00:00.000Z"
       },
       "customTags": [],
       "standupComments": [],
@@ -4077,9 +4335,9 @@
       ],
       "reviews": [],
       "calc": {
-        "devEnd": "2026-07-13T11:00:00.000Z",
-        "testEnd": "2026-07-16T12:00:00.000Z",
-        "finalEnd": "2026-07-16T12:00:00.000Z"
+        "devEnd": "2026-07-20T11:00:00.000Z",
+        "testEnd": "2026-07-26T07:00:00.000Z",
+        "finalEnd": "2026-07-26T07:00:00.000Z"
       },
       "customTags": [],
       "standupComments": [],
@@ -4091,7 +4349,7 @@
       "id": 176841,
       "title": "AL shamel Labs - Copy the Claim forms from Wateen lab to Al Shamel Labs.",
       "type": "User Story",
-      "state": "Active",
+      "state": "Resolved",
       "assignedTo": "mohamed.abdelghany",
       "tester": "Bassem Ayman",
       "area": "Front and Financial",
@@ -4103,7 +4361,7 @@
       "expectedRelease": null,
       "branch": "KSA",
       "customer": "Al Shamel Lab_624",
-      "changedDate": "2026-07-16T09:40:17.580Z",
+      "changedDate": "2026-07-19T10:12:47.470Z",
       "tasks": [
         {
           "ID": 179039,
@@ -4297,13 +4555,13 @@
           "Assigned To": "gamal kasem",
           "Activity": "Development",
           "Original Estimation": 0.75,
-          "TimeSheet_DevActualTime": 0.75,
+          "TimeSheet_DevActualTime": 1.25,
           "TimeSheet_TestingActualTime": 0,
           "Activated Date": "2026-07-15T12:09:04.963Z",
           "Iteration Path": "LDM\\Front Team\\2026\\Front-July 16-30",
           "Assigned To Tester": "Unassigned",
           "State": "Active",
-          "Changed Date": "2026-07-16T05:33:37.25Z",
+          "Changed Date": "2026-07-19T09:07:14.01Z",
           "Customer": "Al Shamel Lab_624"
         }
       ],
@@ -4451,9 +4709,9 @@
         }
       ],
       "calc": {
-        "devEnd": "2026-07-09T10:52:58.350Z",
-        "testEnd": "2026-07-19T11:00:00.000Z",
-        "finalEnd": "2026-07-19T11:00:00.000Z"
+        "devEnd": "2026-07-20T12:00:00.000Z",
+        "testEnd": "2026-07-27T06:00:00.000Z",
+        "finalEnd": "2026-07-27T06:00:00.000Z"
       },
       "customTags": [],
       "standupComments": [],
@@ -4591,8 +4849,9 @@
           "TimeSheet_TestingActualTime": 0.25,
           "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
           "Assigned To Tester": "Unassigned",
-          "State": "New",
-          "Changed Date": "2026-07-16T08:39:28.027Z",
+          "Resolved Date": "2026-07-19T09:17:16.697Z",
+          "State": "To Be Reviewed",
+          "Changed Date": "2026-07-19T09:17:16.697Z",
           "Customer": "Al Shamel Lab_624"
         }
       ],
@@ -4716,7 +4975,7 @@
       "expectedRelease": null,
       "branch": "KSA",
       "customer": "Al Borg KSA_530",
-      "changedDate": "2026-07-16T10:51:35.563Z",
+      "changedDate": "2026-07-19T11:22:24.953Z",
       "tasks": [
         {
           "ID": 178332,
@@ -4792,14 +5051,14 @@
           "Assigned To": "Ibrahim Ahmed",
           "Activity": "Development",
           "Original Estimation": 1,
-          "TimeSheet_DevActualTime": 2,
+          "TimeSheet_DevActualTime": 2.5,
           "TimeSheet_TestingActualTime": 0,
           "Activated Date": "2026-07-18T19:00:05.337Z",
           "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-18T19:00:09.13Z",
           "State": "To Be Reviewed",
-          "Changed Date": "2026-07-18T19:00:09.13Z",
+          "Changed Date": "2026-07-19T11:07:09.827Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -4946,12 +5205,14 @@
           "Assigned To": "Ibrahim Ahmed",
           "Activity": "Development",
           "Original Estimation": 2,
-          "TimeSheet_DevActualTime": 0,
+          "TimeSheet_DevActualTime": 2,
           "TimeSheet_TestingActualTime": 0,
+          "Activated Date": "2026-07-19T09:49:20.847Z",
           "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
           "Assigned To Tester": "Unassigned",
-          "State": "New",
-          "Changed Date": "2026-07-16T05:34:56.897Z",
+          "Resolved Date": "2026-07-19T11:08:13.843Z",
+          "State": "To Be Reviewed",
+          "Changed Date": "2026-07-19T11:08:13.843Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -5035,13 +5296,13 @@
           "Title": "BD002 | Patient Data Step | Create Validate Uploaded Excel Data Post API",
           "Assigned To": "Ibrahim Ahmed",
           "Activity": "Development",
-          "Original Estimation": 27,
+          "Original Estimation": 22,
           "TimeSheet_DevActualTime": 0,
           "TimeSheet_TestingActualTime": 0,
           "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
           "Assigned To Tester": "Unassigned",
           "State": "New",
-          "Changed Date": "2026-07-16T05:34:56.897Z",
+          "Changed Date": "2026-07-19T11:19:39.067Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -5167,15 +5428,283 @@
           "State": "New",
           "Changed Date": "2026-07-19T00:33:52.11Z",
           "Customer": "Al Borg KSA_530"
+        },
+        {
+          "ID": 180466,
+          "Work Item Type": "Task",
+          "Title": "Execution of CR 157946",
+          "Assigned To": "Mostafa Mamdouh",
+          "Activity": "Testing",
+          "Original Estimation": 30,
+          "TimeSheet_DevActualTime": 0,
+          "TimeSheet_TestingActualTime": 0,
+          "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
+          "Assigned To Tester": "Unassigned",
+          "State": "New",
+          "Changed Date": "2026-07-19T11:10:56.943Z",
+          "Customer": "Al Borg KSA_530"
+        },
+        {
+          "ID": 180467,
+          "Work Item Type": "Task",
+          "Title": "BD002 | Patient Data Step | Create Download Patient Template Excel API",
+          "Assigned To": "Ibrahim Ahmed",
+          "Activity": "Development",
+          "Original Estimation": 5,
+          "TimeSheet_DevActualTime": 0,
+          "TimeSheet_TestingActualTime": 0,
+          "Activated Date": "2026-07-19T11:25:06.333Z",
+          "Iteration Path": "LDM\\Registration Team\\2026\\Registration-July 16-30",
+          "Assigned To Tester": "Unassigned",
+          "State": "Active",
+          "Changed Date": "2026-07-19T11:25:06.333Z",
+          "Customer": "Al Borg KSA_530"
         }
       ],
       "bugs": [],
-      "testCases": [],
+      "testCases": [
+        {
+          "id": 180379,
+          "state": "Design"
+        },
+        {
+          "id": 180380,
+          "state": "Design"
+        },
+        {
+          "id": 180381,
+          "state": "Design"
+        },
+        {
+          "id": 180382,
+          "state": "Design"
+        },
+        {
+          "id": 180383,
+          "state": "Design"
+        },
+        {
+          "id": 180384,
+          "state": "Design"
+        },
+        {
+          "id": 180385,
+          "state": "Design"
+        },
+        {
+          "id": 180386,
+          "state": "Design"
+        },
+        {
+          "id": 180387,
+          "state": "Design"
+        },
+        {
+          "id": 180388,
+          "state": "Design"
+        },
+        {
+          "id": 180389,
+          "state": "Design"
+        },
+        {
+          "id": 180390,
+          "state": "Design"
+        },
+        {
+          "id": 180391,
+          "state": "Design"
+        },
+        {
+          "id": 180392,
+          "state": "Design"
+        },
+        {
+          "id": 180393,
+          "state": "Design"
+        },
+        {
+          "id": 180394,
+          "state": "Design"
+        },
+        {
+          "id": 180395,
+          "state": "Design"
+        },
+        {
+          "id": 180396,
+          "state": "Design"
+        },
+        {
+          "id": 180397,
+          "state": "Design"
+        },
+        {
+          "id": 180398,
+          "state": "Design"
+        },
+        {
+          "id": 180399,
+          "state": "Design"
+        },
+        {
+          "id": 180400,
+          "state": "Design"
+        },
+        {
+          "id": 180401,
+          "state": "Design"
+        },
+        {
+          "id": 180402,
+          "state": "Design"
+        },
+        {
+          "id": 180403,
+          "state": "Design"
+        },
+        {
+          "id": 180404,
+          "state": "Design"
+        },
+        {
+          "id": 180405,
+          "state": "Design"
+        },
+        {
+          "id": 180406,
+          "state": "Design"
+        },
+        {
+          "id": 180407,
+          "state": "Design"
+        },
+        {
+          "id": 180408,
+          "state": "Design"
+        },
+        {
+          "id": 180409,
+          "state": "Design"
+        },
+        {
+          "id": 180410,
+          "state": "Design"
+        },
+        {
+          "id": 180411,
+          "state": "Design"
+        },
+        {
+          "id": 180412,
+          "state": "Design"
+        },
+        {
+          "id": 180413,
+          "state": "Design"
+        },
+        {
+          "id": 180414,
+          "state": "Design"
+        },
+        {
+          "id": 180415,
+          "state": "Design"
+        },
+        {
+          "id": 180416,
+          "state": "Design"
+        },
+        {
+          "id": 180417,
+          "state": "Design"
+        },
+        {
+          "id": 180418,
+          "state": "Design"
+        },
+        {
+          "id": 180419,
+          "state": "Design"
+        },
+        {
+          "id": 180420,
+          "state": "Design"
+        },
+        {
+          "id": 180421,
+          "state": "Design"
+        },
+        {
+          "id": 180422,
+          "state": "Design"
+        },
+        {
+          "id": 180423,
+          "state": "Design"
+        },
+        {
+          "id": 180424,
+          "state": "Design"
+        },
+        {
+          "id": 180425,
+          "state": "Design"
+        },
+        {
+          "id": 180426,
+          "state": "Design"
+        },
+        {
+          "id": 180427,
+          "state": "Design"
+        },
+        {
+          "id": 180428,
+          "state": "Design"
+        },
+        {
+          "id": 180429,
+          "state": "Design"
+        },
+        {
+          "id": 180430,
+          "state": "Design"
+        },
+        {
+          "id": 180431,
+          "state": "Design"
+        },
+        {
+          "id": 180432,
+          "state": "Design"
+        },
+        {
+          "id": 180433,
+          "state": "Design"
+        },
+        {
+          "id": 180434,
+          "state": "Design"
+        },
+        {
+          "id": 180435,
+          "state": "Design"
+        },
+        {
+          "id": 180436,
+          "state": "Design"
+        },
+        {
+          "id": 180437,
+          "state": "Design"
+        }
+      ],
       "reviews": [],
       "calc": {
-        "devEnd": "2026-07-26T07:00:00.000Z",
-        "testEnd": "Waiting for Data",
-        "finalEnd": null
+        "devEnd": "2026-07-23T12:00:00.000Z",
+        "testEnd": "2026-08-03T06:00:00.000Z",
+        "finalEnd": "2026-08-03T06:00:00.000Z"
       },
       "customTags": [],
       "standupComments": [],
@@ -5455,9 +5984,9 @@
       ],
       "reviews": [],
       "calc": {
-        "devEnd": "2026-07-15T09:00:00.000Z",
-        "testEnd": "2026-07-19T11:00:00.000Z",
-        "finalEnd": "2026-07-19T11:00:00.000Z"
+        "devEnd": "2026-07-22T08:00:00.000Z",
+        "testEnd": "2026-07-27T06:00:00.000Z",
+        "finalEnd": "2026-07-27T06:00:00.000Z"
       },
       "customTags": [],
       "standupComments": [],
@@ -5901,7 +6430,7 @@
         }
       ],
       "calc": {
-        "devEnd": "2026-07-16T09:00:00.000Z",
+        "devEnd": "2026-07-23T08:00:00.000Z",
         "testEnd": "Waiting for Data",
         "finalEnd": null
       },
@@ -6391,11 +6920,11 @@
           "TimeSheet_DevActualTime": 5,
           "TimeSheet_TestingActualTime": 0,
           "Activated Date": "2026-07-12T14:19:45.44Z",
-          "Iteration Path": "LDM\\Candidate CRs",
+          "Iteration Path": "LDM\\InternalLab Team\\2026\\InternalLab-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-13T13:11:49.62Z",
           "State": "To Be Reviewed",
-          "Changed Date": "2026-07-16T20:01:50.853Z",
+          "Changed Date": "2026-07-19T10:29:13.76Z",
           "Customer": "Al Hasa Health Cluster_12"
         },
         {
@@ -6408,11 +6937,11 @@
           "TimeSheet_DevActualTime": 3,
           "TimeSheet_TestingActualTime": 0,
           "Activated Date": "2026-07-12T18:01:40.897Z",
-          "Iteration Path": "LDM\\Candidate CRs",
+          "Iteration Path": "LDM\\InternalLab Team\\2026\\InternalLab-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-13T08:25:34.903Z",
           "State": "To Be Reviewed",
-          "Changed Date": "2026-07-16T20:01:48.887Z",
+          "Changed Date": "2026-07-19T10:29:51.583Z",
           "Customer": "Al Hasa Health Cluster_12"
         },
         {
@@ -6425,11 +6954,11 @@
           "TimeSheet_DevActualTime": 1.5,
           "TimeSheet_TestingActualTime": 0,
           "Activated Date": "2026-07-13T09:04:16.367Z",
-          "Iteration Path": "LDM\\Candidate CRs",
+          "Iteration Path": "LDM\\InternalLab Team\\2026\\InternalLab-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-13T13:20:33.627Z",
           "State": "To Be Reviewed",
-          "Changed Date": "2026-07-16T20:01:49.22Z",
+          "Changed Date": "2026-07-19T10:29:47.003Z",
           "Customer": "Al Hasa Health Cluster_12"
         },
         {
@@ -6442,11 +6971,11 @@
           "TimeSheet_DevActualTime": 1.25,
           "TimeSheet_TestingActualTime": 0,
           "Activated Date": "2026-07-13T09:03:59.513Z",
-          "Iteration Path": "LDM\\Candidate CRs",
+          "Iteration Path": "LDM\\InternalLab Team\\2026\\InternalLab-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-13T12:59:41.183Z",
           "State": "To Be Reviewed",
-          "Changed Date": "2026-07-16T20:01:50.533Z",
+          "Changed Date": "2026-07-19T10:29:20.98Z",
           "Customer": "Al Hasa Health Cluster_12"
         },
         {
@@ -6459,11 +6988,11 @@
           "TimeSheet_DevActualTime": 1.5,
           "TimeSheet_TestingActualTime": 0,
           "Activated Date": "2026-07-12T18:01:33.193Z",
-          "Iteration Path": "LDM\\Candidate CRs",
+          "Iteration Path": "LDM\\InternalLab Team\\2026\\InternalLab-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-13T08:32:09.85Z",
           "State": "To Be Reviewed",
-          "Changed Date": "2026-07-16T20:01:50.213Z",
+          "Changed Date": "2026-07-19T10:29:26.087Z",
           "Customer": "Al Hasa Health Cluster_12"
         },
         {
@@ -6476,11 +7005,11 @@
           "TimeSheet_DevActualTime": 1,
           "TimeSheet_TestingActualTime": 0,
           "Activated Date": "2026-07-13T08:48:34.003Z",
-          "Iteration Path": "LDM\\Candidate CRs",
+          "Iteration Path": "LDM\\InternalLab Team\\2026\\InternalLab-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-13T09:04:48.81Z",
           "State": "To Be Reviewed",
-          "Changed Date": "2026-07-16T20:01:49.54Z",
+          "Changed Date": "2026-07-19T10:29:37.91Z",
           "Customer": "Al Hasa Health Cluster_12"
         },
         {
@@ -6493,11 +7022,11 @@
           "TimeSheet_DevActualTime": 2.25,
           "TimeSheet_TestingActualTime": 0,
           "Activated Date": "2026-07-13T12:33:03.27Z",
-          "Iteration Path": "LDM\\Candidate CRs",
+          "Iteration Path": "LDM\\InternalLab Team\\2026\\InternalLab-July 16-30",
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-13T13:18:24.257Z",
           "State": "To Be Reviewed",
-          "Changed Date": "2026-07-16T20:01:49.883Z",
+          "Changed Date": "2026-07-19T10:29:31.67Z",
           "Customer": "Al Hasa Health Cluster_12"
         },
         {
@@ -6993,7 +7522,7 @@
       "expectedRelease": null,
       "branch": "KSA",
       "customer": "Al Borg KSA_530",
-      "changedDate": "2026-07-16T08:34:38.480Z",
+      "changedDate": "2026-07-19T09:45:27.133Z",
       "tasks": [
         {
           "ID": 174679,
@@ -7027,7 +7556,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-08T11:56:26.55Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T14:45:12.94Z",
+          "Changed Date": "2026-07-19T09:45:25.59Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7044,7 +7573,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-09T18:16:14.17Z",
           "State": "Closed",
-          "Changed Date": "2026-07-05T09:57:36.307Z",
+          "Changed Date": "2026-07-19T09:45:24.403Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7061,7 +7590,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-14T15:32:45.123Z",
           "State": "Closed",
-          "Changed Date": "2026-07-05T09:56:10.243Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7078,7 +7607,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-14T17:58:08.513Z",
           "State": "Closed",
-          "Changed Date": "2026-07-05T09:55:46.89Z",
+          "Changed Date": "2026-07-19T09:45:25.59Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7112,7 +7641,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-15T17:00:58.393Z",
           "State": "Closed",
-          "Changed Date": "2026-07-05T09:56:05.147Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7129,7 +7658,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-23T10:53:06.38Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T14:54:26.157Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7146,7 +7675,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-08T08:50:47.45Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T14:51:57.967Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7281,7 +7810,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-22T10:46:09.387Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T15:18:10.497Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7298,7 +7827,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:43:39.39Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T10:08:23.45Z",
+          "Changed Date": "2026-07-19T09:45:25.59Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7315,7 +7844,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:43:43.557Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T09:56:37.027Z",
+          "Changed Date": "2026-07-19T09:45:25.59Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7332,7 +7861,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:44:43.597Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T10:06:43.49Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7349,7 +7878,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:43:50.933Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T09:55:41.837Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7366,7 +7895,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:43:51.407Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T09:54:59.663Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7383,7 +7912,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:44:19.99Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T10:07:15.017Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7400,7 +7929,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:44:32.827Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T10:01:36.657Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7417,7 +7946,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:44:36.433Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T09:58:11.827Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7434,7 +7963,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:44:38.523Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T10:00:47.993Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7451,7 +7980,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:44:40.217Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T10:01:18.69Z",
+          "Changed Date": "2026-07-19T09:45:24.403Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7485,7 +8014,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:43:19.547Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T10:05:15.303Z",
+          "Changed Date": "2026-07-19T09:45:25.59Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7502,7 +8031,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:43:31.9Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T10:05:52.397Z",
+          "Changed Date": "2026-07-19T09:45:24.403Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7519,7 +8048,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-23T10:52:48.46Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T14:39:52.91Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7536,7 +8065,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:42:45.35Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T09:53:04.8Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7553,7 +8082,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:43:13.28Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T10:01:59.187Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7570,7 +8099,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-24T08:43:17.5Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T09:59:52.587Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7604,7 +8133,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-23T16:03:26.057Z",
           "State": "Closed",
-          "Changed Date": "2026-07-15T09:56:44.297Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7637,7 +8166,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-06-29T11:32:50.447Z",
           "State": "Closed",
-          "Changed Date": "2026-07-16T10:03:50.06Z",
+          "Changed Date": "2026-07-19T09:45:24.403Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -7690,7 +8219,7 @@
           "Assigned To Tester": "Unassigned",
           "Resolved Date": "2026-07-12T19:45:04.7Z",
           "State": "Closed",
-          "Changed Date": "2026-07-13T10:09:53.323Z",
+          "Changed Date": "2026-07-19T09:45:27.133Z",
           "Customer": "Al Borg KSA_530"
         },
         {
@@ -8058,14 +8587,14 @@
       "type": "User Story",
       "state": "Active",
       "assignedTo": "Karim El-Saeed",
-      "tester": "Unassigned",
+      "tester": "Bassem Ayman",
       "area": "Front and Financial",
       "priority": 50,
       "tags": [],
       "expectedRelease": null,
       "branch": "Internal NT",
       "customer": "Internal CR_2000",
-      "changedDate": "2026-07-16T18:51:33.610Z",
+      "changedDate": "2026-07-19T12:25:47.727Z",
       "tasks": [
         {
           "ID": 63163,
@@ -8458,8 +8987,8 @@
       "reviews": [],
       "calc": {
         "devEnd": "2026-07-06T11:00:00.000Z",
-        "testEnd": "2026-07-21T07:00:00.000Z",
-        "finalEnd": "2026-07-21T07:00:00.000Z"
+        "testEnd": "2026-07-28T10:00:00.000Z",
+        "finalEnd": "2026-07-28T10:00:00.000Z"
       },
       "customTags": [],
       "standupComments": [],
@@ -8904,6 +9433,23 @@
           "State": "Active",
           "Changed Date": "2026-07-19T07:53:24.26Z",
           "Customer": "Internal CR_2000"
+        },
+        {
+          "ID": 180349,
+          "Work Item Type": "Bug",
+          "Title": "Enhanced Buttons not display on Webresult Portal",
+          "Assigned To": "Yasmine Fouad",
+          "Activity": "",
+          "Original Estimation": 2,
+          "TimeSheet_DevActualTime": 1.75,
+          "TimeSheet_TestingActualTime": 0,
+          "Activated Date": "2026-07-19T09:00:50.917Z",
+          "Iteration Path": "LDM\\InternalLab Team\\2026\\InternalLab-July 16-30",
+          "Assigned To Tester": "Unassigned",
+          "Resolved Date": "2026-07-19T09:02:03.137Z",
+          "State": "Resolved",
+          "Changed Date": "2026-07-19T09:02:03.137Z",
+          "Customer": "Internal CR_2000"
         }
       ],
       "testCases": [
@@ -9032,7 +9578,7 @@
       "calc": {
         "devEnd": "2026-06-24T10:00:00.000Z",
         "testEnd": "2026-07-09T11:00:00.000Z",
-        "finalEnd": "2026-07-19T09:49:55.233Z"
+        "finalEnd": "2026-07-19T13:00:50.917Z"
       },
       "customTags": [],
       "standupComments": [],
