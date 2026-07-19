@@ -3753,7 +3753,7 @@
       "expectedRelease": null,
       "branch": "KSA",
       "customer": "Al Shamel Lab_624",
-      "changedDate": "2026-07-19T11:58:04.397Z",
+      "changedDate": "2026-07-19T12:40:38.893Z",
       "tasks": [
         {
           "ID": 179419,
@@ -8594,7 +8594,7 @@
       "expectedRelease": null,
       "branch": "Internal NT",
       "customer": "Internal CR_2000",
-      "changedDate": "2026-07-19T12:25:47.727Z",
+      "changedDate": "2026-07-19T12:38:11.863Z",
       "tasks": [
         {
           "ID": 63163,
