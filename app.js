@@ -1093,15 +1093,9 @@ renderKanban() {
                     ${storiesInState.map(s => {
                         // حساب الاستميشن للتطوير
                         const devTasks = s.tasks.filter(t => ["Development", "DB Modification"].includes(t['Activity']));
-                        
-                        // Y = الإجمالي
                         const devEstTotal = devTasks.reduce((acc, t) => acc + parseFloat(t['Original Estimation'] || 0), 0);
-                        
-                        // الخلصان = التاسكات اللي مش New أو Active
                         const devEstCompleted = devTasks.filter(t => !['New', 'Active'].includes(t['State']))
                                                                         .reduce((acc, t) => acc + parseFloat(t['Original Estimation'] || 0), 0);
-                        
-                        // X = المتبقي
                         const devEstRemaining = Math.max(0, devEstTotal - devEstCompleted);
 
                         // حساب الاستميشن للتستر
@@ -1111,22 +1105,23 @@ renderKanban() {
                         // معالجة التاجز (Tags)
                         const tagsList = s.tags ? (typeof s.tags === 'string' ? s.tags.split(';') : s.tags) : [];
 
-                        // منطق البجز الصحيح (بناءً على b['State'])
+                        // البجز
                         const totalBugs = s.bugs ? s.bugs.length : 0;
-                        const completedBugs = s.bugs ? s.bugs.filter(b => ['Closed', 'Resolved', 'Cancel'].includes(b['State'])).lengt
-                            // حساب الاستميشين للبجز
+                        const completedBugs = s.bugs ? s.bugs.filter(b => ['Closed', 'Resolved'].includes(b['State'])).length : 0;
+
+                        // --- حساب استميشين البجز ---
                         const totalBugEffort = s.bugs ? s.bugs.reduce((acc, b) => acc + parseFloat(b['Original Estimation'] || 0), 0) : 0;
-                        const completedBugEffort = s.bugs ? s.bugs.filter(b => ['Closed', 'Resolved', 'Cancel'].includes(b['State']))
-                                          .reduce((acc, b) => acc + parseFloat(b['Original Estimation'] || 0), 0) : 0;
+                        const completedBugEffort = s.bugs ? s.bugs.filter(b => ['Closed', 'Resolved'].includes(b['State']))
+                                                                          .reduce((acc, b) => acc + parseFloat(b['Original Estimation'] || 0), 0) : 0;
                         const remainingBugEffort = Math.max(0, totalBugEffort - completedBugEffort);
                         const bugProgressPercent = totalBugEffort > 0 ? Math.round((completedBugEffort / totalBugEffort) * 100) : 0;
-    
-                        // منطق التست كيسز الصحيح (بناءً على tc.state والحالات المحددة)
+
+                        // تست كيسز
                         const testCases = s.testCases || [];
                         const totalTC = testCases.length;
                         const completedTC = testCases.filter(tc => ['Pass', 'Fail', 'Not Applicable'].includes(tc.state)).length;
 
-                        // حساب عدد التعليقات الحالية
+                        // عدد التعليقات
                         const commentsCount = s.standupComments ? s.standupComments.length : 0;
 
                         return `
