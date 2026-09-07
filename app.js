@@ -2,8 +2,7 @@
  * Configuration & Global State
  */
 const CONFIG = {
-    REPO_NAME: "elmoatasemsaeed/LDM_iteration
-",
+    REPO_NAME: "elmoatasemsaeed/LDM_iteration",
     FILE_PATH: "db.json",
     ARCHIVE_PATH: "delivery_archive.json",
     WORKING_HOURS: 5,
