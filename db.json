@@ -29,7 +29,14 @@
     "2026-03-23",
     "2026-06-18"
   ],
-  "deliveryLogs": [],
+  "deliveryLogs": [
+    {
+      "storyId": "188437",
+      "to": "عبدالرحمن",
+      "date": "10/12/2026",
+      "timestamp": 1791786739405
+    }
+  ],
   "currentStories": [
     {
       "id": 170402,
